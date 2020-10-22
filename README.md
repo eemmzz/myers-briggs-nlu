@@ -1,6 +1,6 @@
-# Myers Briggs NLU
+# Myers Briggs text classification
 
-Labelling text content with a MBTI type using NLU techniques and text classifiers.
+Labelling text content with a MBTI type using NLU techniques.
 
 ```
 virtualenv myersbriggs
