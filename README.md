@@ -1,4 +1,4 @@
-# Myers Briggs
+# Myers Briggs NLU
 
 Labelling text content with a MBTI type using NLU techniques and text classifiers.
 
